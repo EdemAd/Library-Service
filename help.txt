@@ -1,0 +1,26 @@
+LISTE:
+genre={1:homme,2:femme,3:dinosaures}
+style de livre={ 1: Science-fiction, 2:Biographie, 3:Horreur, 4:Romance, 5:Fable, 6:Histoire, 7:Comédie}
+tranche d'âge={1: <18 ans, 2: Entre 18 et 25 ans, 3: >25}
+
+
+
+
+
+FONCTIONS:
+
+def ajout()
+def afficher()
+def dico_user() {1:[user1,genre,age,style]...}
+def dico_bookread() {1:[user1,livre1,livre2,livre3...]}
+def suppr()
+def supression()
+def books_read()
+def dico_books() {1: livre 1, 2: livre 2, 3: livre 3...}
+def modif()
+def modif_pseudo()
+def modif_age()
+def modif_genre()
+def modif_styles()
+def ajout_livre()
+def modif_livre()
